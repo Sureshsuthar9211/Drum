@@ -4,7 +4,11 @@ A fun and interactive **Drum Kit Web Application** built using **HTML, CSS, and 
 Play different drum sounds using your **keyboard** or **mouse clicks**.
 
 ---
-<img src="Screenshot (155).png">
+
+<img src="Screenshot (155).png" width="600">
+
+---
+
 ## 🚀 Features
 
 - 🎵 Play sounds using keys: `q, w, e, r, t, y`
