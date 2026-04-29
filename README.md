@@ -34,23 +34,25 @@ drum-project/
 - JavaScript (Vanilla JS)
 
 ## 🎹 Controls
-Key             	Action
-q, w, e, r, t, y	Drum sounds
-Q, W, E, R, T, Y	Special sounds
-Mouse Click	Play sound + animation
+
+Key             :	  Action
+- q, w, e, r, t, y	: Drum sounds
+- Q, W, E, R, T, Y	: Special sounds
+- Mouse Click	    : Play sound + animation
 
 ## ⚙️ How It Works
-Detects button clicks and key presses
-Plays audio using JavaScript Audio object
-Adds animation using CSS class .pressed
+
+- Detects button clicks and key presses
+- Plays audio using JavaScript Audio object
+- Adds animation using CSS class .pressed
 
 ## 🎨 UI Features
-Gradient background
-Circular drum buttons
-Shadow effects
-Click animation
+- Gradient background
+- Circular drum buttons
+- Shadow effects
+- Click animation
 
 ## 👨‍💻 Author
 
-Suresh Suthar
-BCA Student | Learning JavaScript
+- Suresh Suthar
+- BCA Student | Learning JavaScript
